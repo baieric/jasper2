@@ -11,9 +11,6 @@ This is a full-featured port of Ghost's default theme [Casper](https://github.co
 
 [Ghost's Casper](https://demo.ghost.io) // [Jasper2](https://jekyller.github.io/jasper2)
 
-![home page](https://raw.githubusercontent.com/jekyller/jasper2/master/assets/screenshot-desktop.jpg)
-
-
 ## Features
 
 * Out of the box support for multiple authors (via `_data/authors.yml`)
