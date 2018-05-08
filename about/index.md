@@ -21,7 +21,7 @@ I independently designed and coded Xcerpt, an app for sharing eye-catching excer
 
 In 2017, Xcerpt was taken down due to increased costs of operation. I hope to eventually re-release it when it is financially feasible.
 
-**Press and Media**
+**Selected Press and Media:**
 
 The New York Times, April 2017  
 [Sharing More Than 140 Characters on Twitter](https://www.nytimes.com/2017/04/26/technology/personaltech/sharing-screen-shots-on-twitter.html)
@@ -42,4 +42,4 @@ Android Authority, October 2015
 [Xcerpt for Twitter lets you share beautiful article snippets with ease](https://www.androidauthority.com/xcerpt-for-twitter-share-beautiful-article-snippets-with-ease-650637/)
 
 All About Android, October 2015  
-[Episode 235: Hiroshi the Hero](https://twit.tv/shows/all-about-android/episodes/235)
+[Episode 235: Hiroshi the Hero](https://twit.tv/shows/all-about-android/episodes/235) (Xcerpt is endorsed at 1:46:50)

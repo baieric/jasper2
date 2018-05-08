@@ -4,13 +4,11 @@ current: post
 cover: assets/images/bayesian-optimization/artificial-intelligence.jpg
 navigation: true
 title: Using Bayesian Optimization for Reinforcement Learning
-date: {}
-tags:
-  - tech
+date: 2016-12-09 8:00:00
+tags: [tech]
 class: post-template
-subclass: post
+subclass: 'post'
 author: eric
-published: true
 ---
 
 In this post, we will show you how [Bayesian optimization](https://static.sigopt.com/2d66b84dcdbbd7fffad087f58b67a585eb89444c/pdf/SigOpt_Bayesian_Optimization_Primer.pdf) was able to dramatically improve the performance of a reinforcement learning algorithm in an AI challenge. We’ll provide background information, detailed examples, code, and references.
@@ -122,20 +120,14 @@ _This blog post was originally published on the [SigOpt blog](https://blog.sigop
 <ol class="footnotes-list">
   <li id="fn1" class="footnote-item"><p>We use the version of the cart-pole problem as described by Barto, Sutton, and Anderson. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
   </li>
-  <li id="fn2" class="footnote-item"><p>For further insight into the Q-function, as well as reinforcement learning in general, check out [this blog post from Nervana](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+  <li id="fn2" class="footnote-item"><p>For further insight into the Q-function, as well as reinforcement learning in general, check out <a href="https://www.nervanasys.com/demystifying-deep-reinforcement-learning/">this blog post from Nervana</a> <a href="#fnref2" class="footnote-backref">↩︎</a></p>
   </li>
-  <li id="fn3" class="footnote-item"><p>The environment does not need to be deterministic for Q-learning to work. The [proof that Q-learning converges](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf) takes into account stochastic environments. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+  <li id="fn3" class="footnote-item"><p>The environment does not need to be deterministic for Q-learning to work. The <a href="http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf">proof that Q-learning converges</a> takes into account stochastic environments. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
   </li>
-  <li id="fn4" class="footnote-item"><p>DeepMind lists [the hyperparameters used in their algorithm](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf#page=10) to train an agent to play Atari games <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+  <li id="fn4" class="footnote-item"><p>DeepMind lists <a href="https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf#page=10">the hyperparameters used in their algorithm</a> to train an agent to play Atari games <a href="#fnref4" class="footnote-backref">↩︎</a></p>
   </li>
    <li id="fn5" class="footnote-item"><p>The types and ranges of the hyperparameters used in this example:
-     * **minibatch_size:** integer [10, 500]
-     * **epsilon_decay_steps:** integer [nn/10, nn] where nn is the number of episodes (for the cart-pole problem, this is set to 350)
-     * **hidden_multiplier:** integer [5, 100]
-     * **initial_weight_stddev:** double [0.01, 0.5]
-     * **initial_bias_stddev:** double [0.0, 0.5]
-     * **log(learning_rate):** double [log(0.0001), log(1)]
-     * **discount_factor:** double [0.5, 0.9999]
+     <ul><li><strong>minibatch_size</strong>: integer [10, 500]</li><li><strong>epsilon_decay_steps</strong>: integer [nn/10,&nbsp;nn] where&nbsp;nn&nbsp;is the number of episodes (for the cart-pole problem, this is set to 350)</li><li><strong>hidden_multiplier</strong>: integer [5, 100]</li><li><strong>initial_weight_stddev</strong>: double [0.01, 0.5]</li><li><strong>initial_bias_stddev</strong>: double [0.0, 0.5]</li><li><strong>log(learning_rate)</strong>: double [log(0.0001), log(1)]</li><li><strong>discount_factor</strong>: double [0.5, 0.9999]</li></ul>
      <a href="#fnref5" class="footnote-backref">↩︎</a></p>
   </li>
   <li id="fn6" class="footnote-item"><p>We used uniform random search and the vertices of the hypercube for grid search. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
