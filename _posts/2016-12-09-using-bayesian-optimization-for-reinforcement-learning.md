@@ -9,6 +9,7 @@ tags: [tech]
 class: post-template
 subclass: 'post'
 author: eric
+permalink: /:categories/:year/:month/:day/:title/
 ---
 
 In this post, we will show you how [Bayesian optimization](https://static.sigopt.com/2d66b84dcdbbd7fffad087f58b67a585eb89444c/pdf/SigOpt_Bayesian_Optimization_Primer.pdf) was able to dramatically improve the performance of a reinforcement learning algorithm in an AI challenge. We’ll provide background information, detailed examples, code, and references.

@@ -9,6 +9,7 @@ tags: [tech]
 class: post-template
 subclass: 'post'
 author: eric
+permalink: /:categories/:year/:month/:day/:title/
 ---
 
 On August 30th, I released [Xcerpt](http://xcerpt.surge.sh/), an Android app for sharing links on Twitter attached with an eye-catching image of some content from the link. It’s particularly useful for sharing quotes from web articles. Xcerpt’s goal is to allow you to show what the link contains, making it easier for you to engage your followers with links.
