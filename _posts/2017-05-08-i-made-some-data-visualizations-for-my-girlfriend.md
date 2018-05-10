@@ -26,7 +26,7 @@ Camille messages more, but at least I have more words per message... Hope that m
 <img src="/assets/images/chatstats/weekday_messages.png" alt="messages by weekday" style="max-height: 500px;"/>
 <img src="/assets/images/chatstats/time_in_day_messages.png" alt="messages by hour of day" style="max-height: 500px;"/>
 
-Camille messages more at every hour and every day of the week... except for 5AM. Probably because of my bad sleep habits, or the a timezone difference from when I was traveling. I swear Camille has a weirder sleeping schedule, but the stats don't lie.
+Camille messages more at every hour and every day of the week... except for 5AM. Probably because of my bad sleep habits, or the timezone difference from when I was traveling. I swear Camille has a weirder sleeping schedule, but the stats don't lie.
 
 <img src="/assets/images/chatstats/per_term_messages.png" alt="messages by hour of day" style="max-height: 500px;"/>
 
@@ -36,7 +36,9 @@ The trimesters with the most messages all occurred when we were super long-dista
 
 <img src="/assets/images/chatstats/top_days_messages.png" alt="top days messages" style="max-height: 500px;"/>
 
-I skimmed through our messages on these days, and each one was just an average day while we were long-distance. April 7th was when I started binging The Get Down on Netflix, so I was live-texting her my reactions. (why did they cancel it?? 😭)
+The top three were just average days while we were long-distance. On the top day, April 7th 2017, I started binging The Get Down on Netflix, and I was live-texting her my reactions. (why did they cancel it?? 😭)
+
+The fourth and fifth days were very recent; it looks like we were procrastinating by talking to each other instead of studying for our exams.
 
 <img src="/assets/images/chatstats/emoji_total.png" alt="most frequent emoji" style="max-height: 500px;"/>
 
@@ -47,8 +49,6 @@ Also, note how I'm clearly the more positive and affectionate person. Where my h
 <img src="/assets/images/chatstats/top_stickers.png" alt="most frequent stickers" style="max-height: 500px;"/>
 
 I'm constantly serenading Camille with romantic stickers, but she never reciprocates. Wish my gf's sticker game was stronger.
-
-Facebook Foxes, Pusheen, and Sugar Cubs for life. 🤙
 
 <img src="/assets/images/chatstats/names.png" alt="names said in chat" style="max-height: 500px;"/>
 
@@ -70,6 +70,6 @@ If you want to see these graphs for your own Facebook messages, you're in luck. 
 
 For those with coding experience: the code is easy to modify and extend, so you can quickly put together new types of graphs.
 
-If you do try out ChatStats, let me know on [Twitter](https://twitter.com/BaiEric) or in the comments!
+If you do try out ChatStats, let me know in the comments!
 
-_This post's cover photo was taken at a random stop on a highway in Iceland. Shout out to the photographer, Kitty Huang!!_
+_This post's cover photo was taken at a random stop on a highway in Iceland. Photo taken by Kitty Huang._

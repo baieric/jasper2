@@ -39,7 +39,7 @@ In the current version of Xcerpt, there’s a simple paste button that takes you
 
 The interface for the customization page includes tabbed pages for colour selection and source selection at the top, with the preview of the image on the bottom. This design did not really change at all throughout development. I briefly tried out an alternate layout where the Colour and Source pages were in pop-ups, in an attempt to give the image preview more screen space, but ultimately decided the extra taps to open pop ups weren’t worth it. While the design was straightforward, this page was challenging due to how much is going on in the background.
 
-<img src="assets/images/first-android-app/customize_activity.png" alt="CustomizeActivity, which hardly changed from how it first looked." style="max-width: 250px;"/>
+<img src="/assets/images/first-android-app/customize_activity.png" alt="CustomizeActivity, which hardly changed from how it first looked." style="max-width: 250px;"/>
 
 Once the user inputs the text they want to share, Xcerpt performs a web search of the text to find its source, then processes the search results to display to the user.
 
@@ -74,7 +74,7 @@ Unfortunately, Bing truncates a title if it’s too long, and I wanted to displa
 
 Once the user is done customizing, they reach the Share page. I’m pretty proud of the layout of this page; I feel all the information is laid out nicely.
 
-<img src="assets/images/first-android-app/share_activity.png" alt="The Share page." style="max-width: 250px;"/>
+<img src="/assets/images/first-android-app/share_activity.png" alt="The Share page." style="max-width: 250px;"/>
 
 I had a love-hate relationship with the Twitter API when integrating it into Xcerpt. Twitter’s Fabric platform was incredibly friendly to use — the Android Studio extension made adding set-up code as simple as possible. However, some features were limited. Fabric didn’t let you post to Twitter from inside the app. Instead, it would try to open up Twitter’s compose tweet page and fill it in. This meant another tap for the user (press Tweet and then… press Tweet again in Twitter). It also couldn’t attach the image if you used a third-party Twitter app. When I emailed Fabric support asking why this limitation existed, they stated:
 
