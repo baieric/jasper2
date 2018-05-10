@@ -10,7 +10,6 @@ class: post-template
 subclass: 'post'
 author: eric
 permalink: /:categories/:year/:month/:day/:title/
-alias: [/2017/05/10/i-made-some-data-visualizations-for-my-girlfriend]
 ---
 
 I just finished my undergrad last month, and it's really sinking in how special and fleeting the past five years have been. I'm privileged to have had so many unique opportunities and experiences throughout these fourteen trimesters, both in my career and personal life. I've also met so many amazing people that I'm lucky to call my friends. In fact, I happened to meet my soon-to-be best friend during the first week of university, and now we've been dating for over four years.
