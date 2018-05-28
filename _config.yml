@@ -24,6 +24,9 @@ subscribers: False # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: BaiEric # replace by your username
 facebook: TheEricBai # replace by your username
+instagram: baieric
+# linkedin: baieric
+github: baieric
 
 # Disqus
 disqus: True
