@@ -2,3 +2,7 @@ tech:
   name: tech
   description: False
   cover: False
+travel:
+  name: travel
+  description: False
+  cover: False
