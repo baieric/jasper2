@@ -5,7 +5,7 @@ cover: assets/images/peru/20.jpg
 navigation: True
 title: "Twenty Photos In Peru"
 date: 2018-07-23 02:00:00
-tags: [travel]
+tags: [places]
 class: post-template
 subclass: 'post'
 author: eric
