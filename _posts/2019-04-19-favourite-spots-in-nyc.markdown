@@ -12,7 +12,9 @@ author: eric
 permalink: /:categories/:year/:month/:day/:title/
 ---
 
-Bolded items are my most-favs. Asterisk means the place has multiple locations. I'll try to keep updating this!
+There's still so many neighbourhoods I need to explore more, and I'll keep updating this list as I do.
+
+Bolded items are my most-favs. Asterisk means the place has multiple locations.
 
 ## Upper West Side / Upper East Side
 
@@ -82,7 +84,7 @@ Book that karaoke EARLY.
 * Washington Square Park
 * **IFC Center** (go here in February to watch Oscar Nominated Shorts)
 
-## East Village
+## East Village / Gramercy Park
 
 ### Food/Bars
 * **ISE** (lunch specials!!)
@@ -91,13 +93,21 @@ Book that karaoke EARLY.
 * Mala Project
 * Raku*
 * Spot Dessert Bar*
+* The Winslow (for trivia night on Mondays)
+
+### Places
+* Strand Bookstore
 
 ## Soho / Nolita / Chinatown
+
+I am here way too much... The food + shopping here is just too good.
 
 ### Food
 * **Prince Street Pizza**
 * Boba Guys*
 * **Kopitiam** (get the nasi lemak or the fishball soup. Go off on the appetizers. Check out the surprisingly nice bathroom)
+* Cha Cha Matcha*
+* Yaya Tea* (for the onigiri)
 
 ### Places
 * The Hole (it's free!)
@@ -105,9 +115,13 @@ Book that karaoke EARLY.
 * Everlane (lol)
 
 ## Long Island City
+
+### Places
 * **Noguchi Museum**
 
 ## Brooklyn
+
+### Places
 * Nets game (cheaper and better than the Knicks tbh)
 * Alamo Drafthouse
 * ALAND
