@@ -16,10 +16,18 @@ There's still so many neighbourhoods I need to explore more, and I'll keep updat
 
 Bolded items are my most-favs. Asterisk means the place has multiple locations.
 
+Last updated July 20 2019.
+
+## Upper Manhattan
+
+### Places
+* **The Met Cloisters**
+
 ## Upper West Side / Upper East Side
 
 ### Food
 * **Sushi Yasaka** (cheap omakase!)
+* **Sala Thai**
 
 ### Places
 * Watch a movie at Lincoln Center (**NYFF** is in autumn)
@@ -31,11 +39,11 @@ Bolded items are my most-favs. Asterisk means the place has multiple locations.
 ## Hell's Kitchen
 
 ### Food
-* **Totto Ramen*** (go to the one on 10th Ave imo)
+* Totto Ramen* (go to the one on 10th Ave imo)
 * La Pulperia
 * Amy's Bread* (go for breakfast when it's most fresh)
 * Pure Thai Cookhouse
-* **Bibble and Sip** (matcha cream puff!)
+* Bibble and Sip (matcha cream puff!)
 * Empanada Mama
 
 ## Midtown / Midtown East
@@ -69,8 +77,9 @@ Go further east for less touristy spots.
 ### Food/Bars
 * BCD Tofu House
 * Jongro BBQ (plenty of good KBBQ options though)
-* Maze
 * Pocha
+* Barnjoo*
+* Gammeeok
 
 Book that karaoke EARLY.
 
@@ -86,13 +95,23 @@ Book that karaoke EARLY.
 
 ## East Village / Gramercy Park
 
+This area has the best food and bars!!
+
 ### Food/Bars
 * **ISE** (lunch specials!!)
 * **Szechuan Mountain House** (go with a large group so you can try more dishes)
-* Death and Company
+* Sobaya
 * Mala Project
 * Raku*
 * Spot Dessert Bar*
+* Kura
+* Cafe Mogador
+* Ho Foods
+* Benemon
+
+### Bars
+* Death and Company
+* Angel's Share*
 * The Winslow (for trivia night on Mondays)
 
 ### Places
@@ -121,7 +140,11 @@ I am here way too much... The food + shopping here is just too good.
 
 ## Brooklyn
 
+## Food
+* Brooklyn's Homeslice Pizza
+
 ### Places
 * Nets game (cheaper and better than the Knicks tbh)
 * Alamo Drafthouse
 * ALAND
+* Brooklyn Museum
